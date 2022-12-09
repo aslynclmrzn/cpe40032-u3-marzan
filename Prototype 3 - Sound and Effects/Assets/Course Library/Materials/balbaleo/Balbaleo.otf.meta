@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0dfe1e9d7fbf543428170e54b14569e4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Balbaleo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6b242eb9785a1aa429d8927e13c57a55, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
